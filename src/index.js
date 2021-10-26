@@ -14,4 +14,4 @@ import Api from "./Api";
 //     }
 // }
 
-ReactDOM.render(<Api />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'))
